@@ -34,9 +34,6 @@ This project addresses that gap by creating a realistic interview experience whe
 - **Backend:** [Add your backend tech]
 - **AI Integration:** [Add AI model/API you're using]
 
-## 🚀 Getting Started
-
-[Add installation and setup instructions]
 
 ## 📖 Example Use Case
 
